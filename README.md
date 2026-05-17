@@ -1,7 +1,5 @@
 # FilmFlix 🎬
 
-# FilmFlix 🎬
-
 Uma aplicação backend desenvolvida em Java focada no catálogo, gerenciamento e avaliação de filmes. Este projeto foi construído para consolidar conceitos fundamentais de Programação Orientada a Objetos (POO) e arquitetura de software.
 
 ---
