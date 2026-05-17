@@ -1,6 +1,8 @@
 # FilmFlix 🎬
 
-An application backend developed in Java focused on cataloging, managing, and evaluating movies. This project was built to consolidate fundamental concepts of Object-Oriented Programming (OOP) and software architecture.
+# FilmFlix 🎬
+
+Uma aplicação backend desenvolvida em Java focada no catálogo, gerenciamento e avaliação de filmes. Este projeto foi construído para consolidar conceitos fundamentais de Programação Orientada a Objetos (POO) e arquitetura de software.
 
 ---
 
